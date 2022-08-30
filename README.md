@@ -1,4 +1,2 @@
-Hi, I am a indy developer learning C# and Python.
-I enjoy using the Unity Engine and Blender,
-
-
+Hi, i'm an aspiring developer, always wanting to learn more! I am currently learning c#
+and more advanced techniques for HTML, having a solid foundation in the language
