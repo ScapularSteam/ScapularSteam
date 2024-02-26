@@ -3,7 +3,7 @@
 
 - 🎯 I’m currently working on [Fletchpad (An Archery App)](https://github.com/ScapularSteam/Fletchpad)
 
-- 🌱 I’m currently learning **C#, Java and Kotlin**
+- 🌱 I’m currently learning **Kotlin**
 
 - 📃 All of my projects are available at [https://github.com/ScapularSteam](https://github.com/ScapularSteam)
 
