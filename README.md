@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Aimify](aimify.fletchworks.dev)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Astro**
 
 - 👨‍💻 All of my projects are available at [fletchworks.dev](fletchworks.dev)
 
