@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">An aspiring full-stack developer from the UK</h3>
 
-- 🔭 I’m currently working on [Aimify](aimify.fletchworks.dev)
+- 🔭 I’m currently working on [Scrapyard London](https://scrapyard.hackclub.com/london)
 
 - 🌱 I’m currently learning **Astro**
 
 - 👨‍💻 All of my projects are available at [fletchworks.dev](fletchworks.dev)
 
-- 💬 Ask me about **Anything archery related :)**
+- 💬 Ask me about **Anything archery related**
 
 - 📫 How to reach me **fletchworks.secure@proton.me**
 
