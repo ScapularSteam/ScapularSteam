@@ -9,4 +9,4 @@
 
 - 💬 Ask me about **anything archery related**
 
-- 💻 I've previously ran Scrapyard London, and Cool as Hack
+- 💻 I've previously ran Scrapyard London, Cool as Hack, and am a co-founder of Youthacks to run more of these events
